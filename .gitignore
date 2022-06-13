@@ -1,0 +1,9 @@
+*.ko
+*.o
+*.cmd
+*.mod
+*.mod.*
+option.c
+usb-wwan.h
+Module.symvers
+modules.order
